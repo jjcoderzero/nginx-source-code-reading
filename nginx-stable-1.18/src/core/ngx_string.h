@@ -14,10 +14,10 @@
 
 
 typedef struct {
-    size_t      len;
-    u_char     *data;
-} ngx_str_t;
-
+    size_t      len; // 字符串有效长度。
+    u_char     *data; // data指针指向字符串起始位置
+} ngx_str_t; //nginx字符串类型
+// ngx_str_t的data成员指向的并不是普通的字符串。因为这段字符串未必会以'\0'作为结尾，所以必须更具长度来使用data成员。
 
 typedef struct {
     ngx_str_t   key;

@@ -1,0 +1,2 @@
+/Users/wanj016/Desktop/source-code-reading/nginx-stable-1.18-source-code-reading/nginx-stable-1.18/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/wanj016/Desktop/source-code-reading/nginx-stable-1.18-source-code-reading/nginx-stable-1.18/cmake-build-debug/CMakeFiles/edit_cache.dir
